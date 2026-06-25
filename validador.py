@@ -8,7 +8,7 @@ def validar_email(email):
     return False
 
 # Exemplo de teste
-email_teste = "suporte@n8n.io"
+email_teste = "teste@n8n.com"
 if validar_email(email_teste):
     print(f"O e-mail '{email_teste}' é válido!")
 else:
