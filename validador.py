@@ -12,4 +12,4 @@ email_teste = "batatatatatatdssadsadsdsdasdta@gmail.com"
 if validar_email(email_teste):
     print(f"O e-mail '{email_teste}' é GOLLLLLLLLLLL!")
 else:
-    print(f"O e-mail '{email_teste}' é Jnãoadaddasdaddadadsadsasis!.")
+    print(f"O e-mail '{email_teste}' é esse codigo me odeia!.")
